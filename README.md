@@ -1,6 +1,6 @@
 ## About Julian Dunn
 
-👋 This is Julian's profile on GitHub. I currently work in product management @github on @actions and I've been using and contributing to open source for many years, hence some of the various pinned projects and forks that you'll find in this account.
+👋 This is Julian's profile on GitHub. I formerly worked in product management @github on @actions and I've been using and contributing to open source for many years, hence some of the various pinned projects and forks that you'll find in this account.
 
 In the past I have contributed to:
 
@@ -15,5 +15,5 @@ In the past I have contributed to:
 ## Contacting Me
 
 * 📫 (personal): jdunn@aquezada.com
-* 📫 (work): juliandunn@github.com
+* 📫 (work): Funemployed at the moment, but coming soon!
 * 💻 (web): www.juliandunn.net
