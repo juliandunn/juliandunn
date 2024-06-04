@@ -15,5 +15,5 @@ In the past I have contributed to:
 ## Contacting Me
 
 * 📫 (personal): jdunn@aquezada.com
-* 📫 (work): Funemployed at the moment, but coming soon!
+* 📫 (work): julian.dunn@chainguard.dev
 * 💻 (web): www.juliandunn.net
